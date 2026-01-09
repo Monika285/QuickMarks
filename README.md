@@ -1,4 +1,4 @@
-📌 QuickMarks – Bookmark Organizer
+📌 QuickMarks – Bookmark Organizer : 
 
 QuickMarks is a simple and user-friendly web application that helps you save, organize, and manage your favorite website links efficiently. It allows users to categorize bookmarks, open them instantly, and store everything permanently using browser localStorage.
 
